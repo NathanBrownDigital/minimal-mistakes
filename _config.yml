@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Growth, Marketing & Startups"
 title_separator          : "-"
 name                     : "Nathan Brown"
-description              : "An amazing website."
+description              : "Go to Market & Startup Digital Marketing Strategy, SEM, SEO, PPC, Analytics, & UX"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -61,7 +61,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :NathanBrown929
 facebook:
   username               :
   app_id                 :
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nathan Brown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Howdy! I'm Nathan Brown, Growth Hacker & Digital Marketing Consultant."
+  location         : "Murfreesboro, Tennessee"
   email            :
   uri              :
   bitbucket        :
