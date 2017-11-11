@@ -16,7 +16,7 @@ description              : "Go to Market & Startup Digital Marketing Strategy, S
 url                      : "https://nathanbrowndigital.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nathanbrowndigital/nathanbrowndigital.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/images/NathanBrown-Logo.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -61,7 +61,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               :NathanBrown929
+  username               : "NathanBrown929"
 facebook:
   username               :
   app_id                 :
