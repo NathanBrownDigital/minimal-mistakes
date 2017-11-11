@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -13,11 +13,11 @@ title                    : "Growth, Marketing & Startups"
 title_separator          : "-"
 name                     : "Nathan Brown"
 description              : "Go to Market & Startup Digital Marketing Strategy, SEM, SEO, PPC, Analytics, & UX"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://nathanbrowndigital.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "nathanbrowndigital/nathanbrowndigital.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -72,7 +72,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: "https://linkedin.com/in/nathanbrowndigital" # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -84,10 +84,10 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Brown"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/Nathan-Brown.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Howdy! I'm Nathan Brown, Growth Hacker & Digital Marketing Consultant."
   location         : "Murfreesboro, Tennessee"
-  email            :
+  email            : "howdy@nathanbrown.co"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,11 +95,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :NathanBrownDigital
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :nathancbrown929
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
