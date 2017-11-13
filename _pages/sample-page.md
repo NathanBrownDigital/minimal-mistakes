@@ -1,17 +1,25 @@
 ---
-title: "Home"
-permalink: /sample-page/
+title: "Howdy! I'm Nathan Brown, Growth Hacker & Digital Marketing Consultant"
+permalink: /
 date: 2017-11-11T12:36:20-06:00
+layout: single
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  cta_label: "Download"
+  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: 'I make entrepreneurs & savvy businesses more money.<br /><small>Latest Posts</small>'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+From lean startups & small businesses to the UX design & marketing strategy behind softwares for the Fortune 100, I **analyze businesses & unlock new growth engines** - each crafted & forecasted around making real profit, not merely around getting more traffic/signups/etc.
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+**Growth for your business** should be measurable by real profit, meaning actual dollars-both for reporting results and for using math to calculate forecasts of your possible growth strategies
 
-...or something like this:
+> Traffic (and even leads) are not the same as growth, unless they are also profitable as well as scalable with your industry & business model.
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
+That's where agencies & even startup incubators get it wrong. An SEO or PPC campaign may bring you traffic, but not be your most effective growth channel; a UX Design project may give your product a new look, but simultaneously force you to hire new support staff to handle the influx of inquiries if not properly tested.
 
-You should probably delete this page and create new pages for your content. Have fun!
+> I use market data, revenue forecasting, & every tool at my disposal to design, develop, & distinguish the options for your growth game plan, at the appropriate pace for your business.
