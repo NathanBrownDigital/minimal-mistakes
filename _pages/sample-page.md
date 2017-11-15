@@ -1,16 +1,16 @@
 ---
 title: "Howdy! I'm Nathan Brown, Growth Hacker & Digital Marketing Consultant"
-permalink: /
+permalink: /about
 date: 2017-11-11T12:36:20-06:00
 layout: single
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  cta_label: "Growth Marketing Essays"
+  cta_url: "http://nathanbrown.co"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: 'I make entrepreneurs & savvy businesses more money.<br /><small>Latest Posts</small>'
+excerpt: 'I make entrepreneurs & savvy businesses more money.'
 ---
 
 
