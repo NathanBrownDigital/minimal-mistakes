@@ -4,6 +4,7 @@ I have stayed silent. Silent while friends demonized friends during Trump vs. Hi
 
 > Silence is not an option when Americans are *intentionally* being driven into a national mindset of **“Us versus Them”** - ‘them’ being fellow Americans, even friends & family.  
 - - - -
+
 ### Democrats: don’t get too excited by the title
 The Democratic Party has a plethora of problems, as well (but hey, don’t we all? 😇)
 
