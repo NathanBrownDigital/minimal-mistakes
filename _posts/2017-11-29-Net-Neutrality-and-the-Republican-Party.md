@@ -2,7 +2,9 @@
 ## You’re not repealing “Obama-era” Net Neutrality.  You’re empowering a select group of companies to segregate online speech, for a profit.
 I have stayed silent. Silent while friends demonized friends during Trump vs. Hillary, silent when the ‘First 100 Days’ only polarized their relationships further (some beyond repair), and silent ever since. **Until now.**
 
-> Silence is not an option when Americans are *intentionally* being driven into a national mindset of **“Us versus Them”** - ‘them’ being fellow Americans, even friends & family.  
+> Silence is not an option when Americans are *intentionally* being driven into a national mindset of **“Us versus Them”** - ‘them’ being fellow Americans, even friends & family.
+
+I’ve never been into “President-bashing” - not during Clinton, Bush II, Obama, and so far Trump. So this is new territory for me - especially since I don’t have a problem with Republicans…I’m just terrified at the moves their nominated President is making that bring America closer to a corporate plutocracy.  
 - - - -
 
 ### Democrats: don’t get too excited by the title
