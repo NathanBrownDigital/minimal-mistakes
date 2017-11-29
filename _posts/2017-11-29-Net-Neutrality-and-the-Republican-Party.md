@@ -17,7 +17,7 @@ I grew up in a 99.9% conservative Republican environment until I was about 17 ye
 Barely in time for my first vote, I stopped caring about party lines and started caring about what kind of person I was voting for.  Fast forward to today, and now my family and friends are so scattered across the political spectrum that frankly it’s hard to keep up.
 - - - -
 ## The Psychology of Manipulating Public Opinion
-Ten years of campaign strategy, digital marketing & PR has made a bit of a cynic out of me, when it comes to noticing how people are trying to manage public perception. Anyone whose job involves raising awareness, PR, reputation management, and generally influencing public opinion should be able to spot exactly what is happening. Lobbyists, government factions, and corporate interests (including the news media - more on that soon) all have someone like myself telling them the darker truths of mass psychology that every marketer knows: 
+Ten years of campaign strategy, digital marketing & PR has made a bit of a cynic out of me, when it comes to noticing how people are trying to manage public perception. Anyone whose job involves raising awareness, PR, reputation management, and generally influencing public opinion should be able to spot exactly what is happening. Lobbyists, government factions, and corporate interests (including the news media - more on that soon) all have someone like myself telling them the darker truths of mass psychology that every marketer knows:
 
 1. **An angry public is a distracted public.**
 2. An angry public **consumes & shares news that “justifies” their views.**
@@ -38,7 +38,7 @@ My own Congresswoman (Marsha Blackburn, R) calls Republicans to “Repeal Obama-
 ### This is about another corporate empire co-opting the Republican Party, not unlike how the “grassroots” Tea Party was co-opted by corporate sponsorships.
 
 ## Battle for the Net
-I am extremely disturbed about the plan to reverse Obama-era FCC regulations. As a consultant to technology startups, every new entrepreneur I work with serves as a reminder that startups & small- to mid-cap businesses depend on being treated equally online, just to stand a chance of competing in a free market. 
+I am extremely disturbed about the plan to reverse Obama-era FCC regulations. As a consultant to technology startups, every new entrepreneur I work with serves as a reminder that startups & small- to mid-cap businesses depend on being treated equally online, just to stand a chance of competing in a free market.
 
 At the time of the Constitutional Convention, there was no concept of instant, global communication. We simply committed our country to one generic principle on the issue: the US government will not and cannot ever restrict the freedom of speech.
 
@@ -68,3 +68,5 @@ Consider the following:
 These are all things that happen in a free market, when greed & responsibility are left unchecked. They destroy the free market itself if uncorrected. I don't favor government interference - but I end with one thought:
 
 The “free market” that FCC Commissioner Pai claims to support by repealing net neutrality *does not start with a foundation of corporate plutocracy.*
+
+# [Learn more & contact Congress to stop the FCC in time ⏱](https://battleforthenet.com/?utm_campaign=Nathan%20Brown&utm_source=nathanbrown.co&utm_medium=referral&utm_content=Nathan%20Brown-Letter%20to%20Republicans)
